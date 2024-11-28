@@ -19,7 +19,7 @@ This project integrates theoretical knowledge from the course into a practical a
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/OABS_Project.git
+   git clone https://github.com/<ashrafghulam>/OABS_Project.git
    ```
 2. Open the prototype design files in Figma or other tools as specified.
 3. Follow updates for the implementation phase in future commits.
